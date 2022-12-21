@@ -1,0 +1,40 @@
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\ЕЛЕНА\Downloads\56\56\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП)\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Wekky\Desktop\3 Курсовая работа  (ТП) — копия\Курсовая\obj\Debug\Курсовая.pdb
